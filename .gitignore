@@ -1,0 +1,15 @@
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variable files
+.env
+
+# Ignore output files (WAV files in this case)
+*.wav
+
+# Ignore requirements file (if you decide not to include it)
+# requirements.txt
